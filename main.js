@@ -8,6 +8,24 @@
 // 应用主逻辑
 function main() {
     console.log('Hello, world!');
+    console.log('Hello, world!');
+    console.log('Hello, world!');
+    console.log('Hello, world!');
+    console.log('Hello, world!');
+    console.log('Hello, world!');
+    console.log('Hello, world!');
+    console.log('Hello, world!');
+    console.log('Hello, world!');
+    console.log('Hello, world!');
+    console.log('Hello, world!');
+    console.log('Hello, world!');
+    console.log('Hello, world!');
+    console.log('Hello, world!');
+    console.log('Hello, world!');
+    console.log('Hello, world!');
+    console.log('Hello, world!');
+    console.log('Hello, world!');
+    console.log('Hello, world!');
     // 在此编写你的应用逻辑
 }
 
