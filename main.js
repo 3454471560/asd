@@ -8,7 +8,8 @@
 // 应用主逻辑
 function main() {
     console.log('Hello, world!');
-//更改成功
+    //更改成功
+//第二次更改成功
     // 在此编写你的应用逻辑
 }
 
